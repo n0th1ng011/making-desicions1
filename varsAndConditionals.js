@@ -42,3 +42,5 @@ while(kenobiHealth > 0){
         console.log('Kenobi has been slain')
     }
 }
+
+let = anakinDefence = 20
